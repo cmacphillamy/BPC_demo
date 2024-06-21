@@ -6,7 +6,7 @@
                  name="BPC"
                  start-page="The-Bovine-Pan-Genome-Consortium.topic">
 
-    <toc-element topic="The-Bovine-Pan-Genome-Consortium.topic"/>
+    <toc-element topic="The-Bovine-Pan-Genome-Consortium.topic" toc-title="The Bovine Pan-Genome Consortium"/>
     <toc-element topic="Rationale.md"/>
     <toc-element topic="All-about-us.md"/>
     <toc-element topic="Steering-Committee.md"/>

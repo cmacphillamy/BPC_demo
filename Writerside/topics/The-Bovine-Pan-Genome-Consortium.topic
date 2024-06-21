@@ -15,6 +15,7 @@
             Only the spotlight section is limited to two topics.
             For other groups, try to keep the number between 2 and 6, but you can add more if necessary.-->
 
+    <title instance="b">Bovine Pan-Genome Consortium</title>
     <section-starting-page>
         <title>The Bovine Pan-Genome Consortium</title>
         <description>
